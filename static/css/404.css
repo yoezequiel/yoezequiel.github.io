@@ -1,0 +1,40 @@
+/* Estilos para la página 404 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F2F2F2;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    color: #4E4E4E;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 24px;
+    color: #4E4E4E;
+    margin-bottom: 40px;
+}
+
+a {
+    display: inline-block;
+    background-color: #0077B5;
+    color: #FFF;
+    font-size: 20px;
+    padding: 12px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #00405D;
+}
